@@ -1,5 +1,6 @@
 # Forecasting Winter Bed Occupancy
 Author: marcos fabietti (email: marcos.fabietti@nhs.net)
+
 Date: 31/01/2023
 
 ## Overview
@@ -37,7 +38,7 @@ The forecasts help NHS hospitals plan capacity and resource allocation during hi
   
 The dataset is organised in two  CSV files. Their structure includes:
 | Date       | Elective	 | Emergency | 
-| ---------- | ---------------------- | ---------------------- | ------------------------------------ | --------------------- |
+| ---------- | ---------------------- | ---------------------- |
 | 01/04/2021 | 90                 | 475                     | 
 
 -   **Date:** Date of record.
